@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3708034459
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: xc40_recharge_prefab.1
+      Dependencies: {}
+    Info_1:
+      Name: gui.1
+      Dependencies: {}

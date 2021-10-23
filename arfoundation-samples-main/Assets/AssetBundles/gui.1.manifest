@@ -1,0 +1,101 @@
+ManifestFileVersion: 0
+CRC: 2378133072
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1ab81a664506f72cce878290c57d32a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Textures/Gui/Icons/CarPressed.png
+- Assets/Textures/Gui/Icons/OrbitSelected.png
+- Assets/Textures/Gui/Icons/Capture.png
+- Assets/Textures/Gui/Icons/FirstPersonHover.png
+- Assets/Textures/Gui/Icons/PaintHover.png
+- Assets/Textures/Gui/Icons/CapturePressed.png
+- Assets/Textures/Gui/Icons/Camera2Selected.png
+- Assets/Textures/Gui/Icons/Camera3.png
+- Assets/Textures/Gui/Icons/ScreenShot.png
+- Assets/Textures/Gui/Icons/ScreenShotHover.png
+- Assets/Textures/Gui/Icons/Orbit.png
+- Assets/Textures/Gui/Icons/CameraHover.png
+- Assets/Textures/Gui/Icons/FirstPersonSelected.png
+- Assets/Textures/Gui/Icons/Camera.png
+- Assets/Textures/Gui/Icons/LightsHover.png
+- Assets/Textures/Gui/Icons/PaintPressed.png
+- Assets/Textures/Gui/Icons/PerspectivePressed.png
+- Assets/Textures/Gui/Icons/Camera1Hover.png
+- Assets/Textures/Gui/Icons/PerspectiveHover.png
+- Assets/Textures/Gui/Icons/Paint.png
+- Assets/Textures/Gui/Icons/LigthtsSelected.png
+- Assets/Textures/Gui/Icons/Car.png
+- Assets/Textures/Gui/Icons/OrbitHover.png
+- Assets/Textures/Gui/Icons/Theme2Selected.png
+- Assets/Textures/Gui/Icons/Theme3Selected.png
+- Assets/Textures/Gui/Icons/Theme.png
+- Assets/Textures/Gui/Icons/InteriorHover.png
+- Assets/Textures/Gui/Icons/Interior.png
+- Assets/Textures/Gui/Icons/Theme1Pressed.png
+- Assets/Textures/Gui/Icons/Theme1.png
+- Assets/Textures/Gui/Icons/Theme2Hover.png
+- Assets/Textures/Gui/Icons/CaptureHover.png
+- Assets/Textures/Gui/Icons/ScreenShotPressed.png
+- Assets/Textures/Gui/Icons/PerspectivePressed.png.meta.png
+- Assets/Textures/Gui/Icons/CarHover.png
+- Assets/Textures/Gui/Icons/CameraPressed.png
+- Assets/Textures/Gui/Icons/Camera3Selected.png
+- Assets/Textures/Gui/Icons/Perspective.png
+- Assets/Textures/Gui/Icons/LightsHover.png.meta.png
+- Assets/Textures/Gui/Icons/DoorsPressed.png
+- Assets/Textures/Gui/Icons/TableSelected.png
+- Assets/Textures/Gui/Icons/CarSelected.png
+- Assets/Textures/Gui/Icons/InteriorSelected.png
+- Assets/Textures/Gui/Icons/PerspectiveSelected.png
+- Assets/Textures/Gui/Icons/Lights.png
+- Assets/Textures/Gui/Icons/TablePressed.png
+- Assets/Textures/Gui/Icons/VideoPressed.png
+- Assets/Textures/Gui/Icons/Theme1Selected.png
+- Assets/Textures/Gui/Icons/Camera1Selected.png
+- Assets/Textures/Gui/Icons/VideoSelected.png
+- Assets/Textures/Gui/Icons/DoorsSelected.png
+- Assets/Textures/Gui/Icons/CaptureSelected.png
+- Assets/Textures/Gui/Icons/FirstPerson.png
+- Assets/Textures/Gui/Icons/Theme1Selected.png.meta.png
+- Assets/Textures/Gui/Icons/Theme1Hover.png
+- Assets/Textures/Gui/Icons/ThemeHover.png
+- Assets/Textures/Gui/Icons/Table.png
+- Assets/Textures/Gui/Icons/Camera2Hover.png
+- Assets/Textures/Gui/Icons/OrbitPressed.png
+- Assets/Textures/Gui/Icons/ThemePressed.png
+- Assets/Textures/Gui/Icons/Theme3Hover.png
+- Assets/Textures/Gui/Icons/Camera3Pressed.png
+- Assets/Textures/Gui/Icons/DoorsHover.png
+- Assets/Textures/Gui/Icons/Camera2.png
+- Assets/Textures/Gui/Icons/Video.png
+- Assets/Textures/Gui/Icons/FirstPersonPressed.png
+- Assets/Textures/Gui/Icons/Doors.png
+- Assets/Textures/Gui/Icons/Camera1.png
+- Assets/Textures/Gui/Icons/ScreenShotSelected.png
+- Assets/Textures/Gui/Icons/VideoHover.png
+- Assets/Textures/Gui/Icons/Camera2Pressed.png
+- Assets/Textures/Gui/Icons/Theme3Pressed.png
+- Assets/Textures/Gui/Icons/InteriorPressed.png
+- Assets/Textures/Gui/Icons/CameraSelected.png
+- Assets/Textures/Gui/Icons/TableHover.png
+- Assets/Textures/Gui/Icons/ThemeSelected.png
+- Assets/Textures/Gui/Icons/Theme2.png
+- Assets/Textures/Gui/Icons/Camera1Pressed.png
+- Assets/Textures/Gui/Icons/Theme3.png
+- Assets/Textures/Gui/Icons/PaintSelected.png
+- Assets/Textures/Gui/Icons/Camera3Hover.png
+- Assets/Textures/Gui/Icons/Theme2Pressed.png
+- Assets/Textures/Gui/Icons/LigthtsPressed.png
+Dependencies: []

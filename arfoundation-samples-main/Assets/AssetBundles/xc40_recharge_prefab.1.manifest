@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3450187257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 68421795c8df7c917de311aa16b70809
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c3d640f6eda4a5f44f9d76e766144d46
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 259
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/VolvoXC40Asset/XC40_Recharge_Prefab.prefab
+Dependencies: []
