@@ -1818,6 +1818,7 @@ GameObject:
   - component: {fileID: 6797357780236885254}
   - component: {fileID: 4331211981687943448}
   - component: {fileID: 1241056486418251861}
+  - component: {fileID: 2078844790022455041}
   m_Layer: 9
   m_Name: Bonnet_01
   m_TagString: Untagged
@@ -1888,6 +1889,24 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &2078844790022455041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2617336169837802781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff7e96c79930ed548b48d41f79a88fd0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  colors:
+  - {r: 1, g: 1, b: 1, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 0.6981132, g: 0.3721075, b: 0.3721075, a: 1}
+  - {r: 0.8904047, g: 0.084549636, b: 0.9433962, a: 1}
+  - {r: 0.19142117, g: 0.8490566, b: 0, a: 1}
 --- !u!1 &2768055332348335276
 GameObject:
   m_ObjectHideFlags: 0

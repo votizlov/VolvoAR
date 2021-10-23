@@ -55,6 +55,7 @@ namespace UnityEngine.XR.ARFoundation.Samples
                 if (planeManager)
                 {
                     Logger.Log("Creating anchor attachment.");
+                    OnPrefabCreated?.Invoke();
                     var oldPrefab = m_AnchorManager.anchorPrefab;
                     m_AnchorManager.anchorPrefab = prefab;
                     anchor = m_AnchorManager.AttachAnchor(plane, hit.pose);
@@ -66,6 +67,7 @@ namespace UnityEngine.XR.ARFoundation.Samples
 
             // Otherwise, just create a regular anchor at the hit pose
             Logger.Log("Creating regular anchor.");
+             OnPrefabCreated?.Invoke();
 
             // Note: the anchor can be anywhere in the scene hierarchy
             var gameObject = Instantiate(prefab, hit.pose.position, hit.pose.rotation);
