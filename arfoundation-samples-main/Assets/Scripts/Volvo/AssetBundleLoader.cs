@@ -19,7 +19,8 @@ public class AssetBundleLoader : MonoBehaviour
         float t = Time.time;        
         
         UnityEngine.XR.ARFoundation.Samples.Logger.Log("Loading asset " + assetName);
-        UnityWebRequest www = UnityWebRequestAssetBundle.GetAssetBundle("http://192.168.222.80:5000/api/v1/asset?assetName="+assetName);
+            //http://95.32.43.247:5554/api/v1/asset?assetName=1.1
+        UnityWebRequest www = UnityWebRequestAssetBundle.GetAssetBundle("http://95.32.43.247:5554/api/v1/asset?assetName="+assetName);
         www.certificateHandler = new MyCertHandler();
         yield return www.SendWebRequest();
  
